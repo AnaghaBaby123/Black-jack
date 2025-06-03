@@ -1,5 +1,4 @@
-A Reinforcement Learning implementation of a self-learning BlackJack player in a program
-ming language of your choice. 
+A Reinforcement Learning implementation of a self-learning BlackJack player in python 
  It shall learn optimal policies for at least the following scenarios:
  1. The Basic Strategy
  2. The Complete Point-Count System 
